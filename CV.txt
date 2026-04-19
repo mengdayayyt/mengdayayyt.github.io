@@ -1,0 +1,78 @@
+Yutong Yue
+M.S. Student
+Peking University
+
+yyt@stu.pku.edu.cn
+Working Address: School of Electronic and Computer Engineering, Peking University Shenzhen Graduate School, Shenzhen, China
+
+Research Interests: 
+AI-enabled Edge Computing
+Computer Networks & Satellite Communications
+Serverless Computing & Access Control
+
+About
+I am an M.S. Student at the School of Electronic and Computer Engineering, Peking University Shenzhen Graduate School, advised by Prof. Lingyang Song. 
+Prior to this, I received my B.S. degree from the School of Electronics Engineering and Computer Science at Peking University in 2024.
+My current research centers on AI-enabled edge computing, computer networks, and satellite communications, with a particular focus on resource orchestration for LEO serverless computing networks and zero-trust access control architectures.
+
+Publications
+
+[Accepted & Published]
+
+@article{yue2026attribute,
+  title={Attribute-Based Access Control in Cloud-Edge Industrial IoT Networks via Deep Reinforcement Learning},
+  author={Yue, Yutong and Di, Boya and Song, Lingyang},
+  journal={IEEE Transactions on Mobile Computing},
+  year={2026},
+  publisher={IEEE}
+}
+
+@inproceedings{yue2026oecaas,
+  title={OECaaS: Towards Serverless Computing for LEO Multi-Satellite On-Orbit Processing},
+  author={Yue, Yutong and Zhang, Rongqing and Song, Lingyang},
+  booktitle={IEEE International Conference on Communications (ICC)},
+  year={2026},
+  organization={IEEE}
+}
+To appear in upcoming ICC 2026
+
+@inproceedings{yue2025satprune,
+  title={SatPrune: Efficient ABAC Scheme for Direct-to-Cell Low-Earth Orbit Satellite Networks},
+  author={Yue, Yutong and Xu, Zhuocheng and Di, Boya and others},
+  booktitle={Proceedings of Asia-Pacific Conference on Communications (APCC)},
+  year={2025}
+}
+
+@inproceedings{yue2025environment,
+  title={Environment-Adaptive Access Control Scheme Design in Smart Factories Enabled by Deep Reinforcement Learning},
+  author={Yue, Yutong and Xu, Zhuocheng and Di, Boya and others},
+  booktitle={Proceedings of IEEE 102nd Vehicular Technology Conference (VTC) Workshops},
+  year={2025},
+  organization={IEEE}
+}
+
+[Under Review & In Revision]
+
+@article{yue2026onorbit,
+  title={On-orbit Serverless Computing for Ultra-dense LEO Satellite Networks},
+  author={Yue, Yutong and Liu, Qingyu and Song, Lingyang},
+  journal={IEEE Transactions on Mobile Computing},
+}
+(Under Review)
+
+@article{xu2026cloudedge,
+  title={Cloud-Edge Collaborative Zero Trust Access Control: Architecture and Scheme Design},
+  author={Xu, Zhuocheng and Yue, Yutong and Di, Boya and Song, Lingyang},
+  journal={IEEE Transactions on Mobile Computing},
+}
+(Major Revision)
+
+@inproceedings{yue2026distributed,
+  title={Distributed Resource Orchestration for LEO Serverless Computing Networks},
+  author={Yue, Yutong and Liu, Qingyu and Song, Lingyang},
+  booktitle={IEEE Global Communications Conference (GLOBECOM)},
+}
+(Under Review)
+
+Services & Memberships
+Student Member, IEEE (2024-Present)

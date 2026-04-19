@@ -1,0 +1,9 @@
+type = "text"
+title = "Misc"
+source = "misc.md"
+
+[[sections]]
+id = "misc"
+type = "markdown"
+source = "misc.md"
+title = "Misc"
